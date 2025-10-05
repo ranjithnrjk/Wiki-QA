@@ -35,14 +35,14 @@ Here, I’m focusing on **Step 3** — using a Hugging Face LLM API (`flan-t5-sm
 
 ## 🚀 Try It Out
 
-<iframe src="https://huggingface.co/spaces/ranjithnrjk/Sample_mini_project_demo"
+<!-- <iframe src="https://huggingface.co/spaces/ranjithnrjk/Sample_mini_project_demo"
         width="100%" height="600px" style="border:none;">
-</iframe>
+</iframe> -->
 
-<!-- <div style="text-align:center">
+<div style="text-align:center">
   <a href="https://huggingface.co/spaces/ranjithnrjk/Sample_mini_project_demo"
      target="_blank">Open Demo on Hugging Face 🚀</a>
-</div> -->
+</div>
 
 If you’re viewing this locally and the demo doesn’t load,  
 you can open it directly here 👉  
